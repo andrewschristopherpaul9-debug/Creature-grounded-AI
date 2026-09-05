@@ -11,4 +11,5 @@ import python
 import json
 pip install python-bible
 import ChromaDB
-     # Create () for (scripture that comes up between prompt and response that challenges prompt.  automate this process using ???
+pip install Garak
+# Create () for (scripture that comes up between prompt and response that challenges prompt.  automate this process using ???
